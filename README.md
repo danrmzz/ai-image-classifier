@@ -1,6 +1,6 @@
 # Image Sense
 
-**Image Sense** is a web-based image classification application built using **Flask** and **MobileNetV2**, a pre-trained deep learning model from TensorFlow. This application allows users to upload images and returns the top predicted label along with a confidence score.
+**Image Sense** is my web based image classification application built using **Flask** and **MobileNetV2**, a pre-trained deep learning model from TensorFlow. This application allows users to upload images and returns the top predicted label along with a confidence score.
 
 ## Features
 

@@ -1,6 +1,6 @@
-# Image Sense
+# AI Image Classifier
 
-**Image Sense** is my web based image classification application built using **Flask** and **MobileNetV2**, a pre-trained deep learning model from TensorFlow. This application allows users to upload images and returns the top predicted label along with a confidence score.
+This is my web based image classification application built using **Flask** and **MobileNetV2**, a pre-trained deep learning model from TensorFlow. This application allows users to upload images and returns the top predicted label along with a confidence score.
 
 ## Features
 
@@ -17,7 +17,7 @@ Here’s how the app works:
 2. The image is processed using **MobileNetV2**.
 3. The top prediction and confidence score are displayed on the screen.
 
-<img src="static/uploads/image_sense_img.jpg" alt="Image Sense Screenshot" width="400"/>
+<img src="static/uploads/image_sense_img.jpg" alt="Screenshot" width="400"/>
 
 
 ## Technologies Used
@@ -35,8 +35,8 @@ Here’s how the app works:
 To run the project locally, follow these steps:
 
 1. Clone the repository:
-   - `git clone https://github.com/danrmzz/image-sense`
-   - `cd image-sense`
+   - `git clone https://github.com/danrmzz/ai-image-classifier`
+   - `cd ai-image-classifier`
 
 2. Create a virtual environment:
    - `python3 -m venv venv`
